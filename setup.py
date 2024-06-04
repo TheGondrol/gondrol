@@ -20,6 +20,9 @@ setup(
     # Short description of your library
     description="My Personal Python Packages",
 
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
+    
     # List of keyword arguments
     keywords=['python', 'gondrol'],
 
