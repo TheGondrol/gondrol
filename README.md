@@ -16,7 +16,8 @@ pip install gondrol
 import gondrol
 
 # returns string
-var = gondrol.hello()
+gondrol.hello()
 
-print(var)
+gondrol.author()
+
 ```

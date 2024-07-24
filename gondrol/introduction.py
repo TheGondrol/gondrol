@@ -1,5 +1,5 @@
 def hello():
-    return "Hello World!!"
+    print("Hello World!!")
 
 def author():
-    return "Hello, The Gondrol is here."
+    print("Hello, my name is Andri Ariyanto.")
